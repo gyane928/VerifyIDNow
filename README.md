@@ -1,5 +1,7 @@
 # VerifyIDNow
 
+## Run the following PHP Programs in XXAAMP before set up
+
 ## Setup
 
 To run and continue development on this application in an IDE, you must first install the Android and Flutter SDKs.
