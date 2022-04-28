@@ -2,7 +2,11 @@
 
 ## Run the following PHP Programs in XXAAMP before set up
 1.Registration.php
+
+
 2.Connection.php
+
+
 API url for flutter code= "http://localhost/vid/registration.php"
 
 username: verifyid
