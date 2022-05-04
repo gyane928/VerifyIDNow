@@ -8,7 +8,7 @@
 
 
 API url for flutter code= "http://localhost/vid/registration.php"
-
+PhpmyAdmin login:
 username: verifyid
 password: Atlanta123*
 
